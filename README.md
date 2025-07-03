@@ -32,3 +32,10 @@ A simple Python keylogger that tracks keystrokes and provides statistical analys
 - pynput (for keyboard monitoring)
 - matplotlib (for charts)
 - tkinter (for GUI, usually included with Python) 
+
+## Example
+
+![image](https://github.com/user-attachments/assets/205c4b6d-2e4e-40de-818f-2057c86f1272)
+![image](https://github.com/user-attachments/assets/f07cd47e-d78a-4821-8d22-cfd67549b1a2)
+
+
