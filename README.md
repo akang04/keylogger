@@ -11,7 +11,7 @@ A simple Python keylogger that tracks keystrokes and provides statistical analys
 - **Scrollable table**: Complete view of all keystroke data
 - **Simple GUI**: Easy-to-use interface for program control
 
-- ## Statistics Features
+ # Statistics Features
 
 - **Overall statistics**: Long-term keystroke patterns
 - **Session statistics**: Current session analysis
